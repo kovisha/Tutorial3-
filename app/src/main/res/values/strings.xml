@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">IntentsProj</string>
+    <string name="msg1">Number 1</string>
+    <string name="msg2">Number 2</string>
+    <string name="msg3">Enter </string>
+    <string name="msg4">OK</string>
+    <string name="msg5">+</string>
+    <string name="msg6">-</string>
+    <string name="msg7">*</string>
+    <string name="msg8">/</string>
+
+
+</resources>
